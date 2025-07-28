@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/worker.ts","./src/config/embeddings.ts","./src/config/queue.ts","./src/controllers/chatcontroller.ts","./src/controllers/uploadcontroller.ts","./src/middleware/multer.ts","./src/routes/chatroutes.ts","./src/routes/uploadroutes.ts"],"version":"5.8.3"}
